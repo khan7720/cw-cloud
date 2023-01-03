@@ -1,0 +1,8 @@
+ ______     __     __    
+/\  ___\   /\ \  _ \ \   
+\ \ \____  \ \ \/ ".\ \  
+ \ \_____\  \ \__/".~\_\ 
+  \/_____/   \/_/   \/_/ 
+
+    ${spring.application.name}
+    Spring-Boot: ${spring-boot.version}
